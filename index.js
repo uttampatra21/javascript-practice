@@ -471,3 +471,11 @@
 
 const sum=()=> `the sum of the  two number is ${(a= 21)+(b=43)}`
 console.log(sum());
+
+
+
+
+//testing
+
+
+console.log("testing...");
